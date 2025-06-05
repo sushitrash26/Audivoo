@@ -6,7 +6,7 @@ import { Button } from './ui/button'
 
 const PageFourComponent = () => {
   return (
-    <div>
+    <div className='mt-[40px]'>
       <PageFourText/>
       <PageFourBtn/>
       <PageFourImages/>
