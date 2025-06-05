@@ -10,6 +10,8 @@ import PageTwoComponent from "@/components/pageTwoComponent"
 import PageThreeComponent from "@/components/pageThreeComponent"
 import PageFourComponent from "@/components/pageFourComponent"
 import LastPageComponent from "@/components/LastPageComponent"
+import PageFiveComponent from "@/components/pageFiveComponent"
+
 
 
 const page = () => {
@@ -19,8 +21,11 @@ const page = () => {
       <PageOneComponent/>
       <PageTwoComponent/> 
       <PageThreeComponent/>
+      <PageFiveComponent/>
       <PageFourComponent/>
+
       <LastPageComponent/>
+      
       </div>
     </>
   )

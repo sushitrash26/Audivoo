@@ -16,11 +16,11 @@ const page = () => {
   return (
     <>
     <div className="bg-[#050711]">
-      <PageOneComponent/>
+      {/* <PageOneComponent/>
       <PageTwoComponent/> 
       <PageThreeComponent/>
       <PageFourComponent/>
-      <LastPageComponent/>
+      <LastPageComponent/> */}
       </div>
     </>
   )
