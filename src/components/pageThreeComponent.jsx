@@ -12,7 +12,7 @@ const PageThreeComponent = () => {
     background: 'linear-gradient(170deg, #071223 7.45%, #070B11 95.48%)',
   }}
     >
-    <div className="bg-[url('/bgThreeLol.svg')] bg-cover  py-[20px]">
+    <div className="bg-[url('/fresh_drops.png')] bg-cover  py-[20px]">
         <div className="main flex justify-center items-center ">
 
         

@@ -7,7 +7,8 @@ import Startbtn from "@/components/startbtn"
 import Flex from "@/components/flex"
 const PageOneComponent = () => {
   return (
-    <div className="bg-[#050711] h-auto">
+    <div className="bg-[url('/Bg-Shapes.png')] bg-[#050711] h-auto">
+   
       <div className="main w-full text-white flex justify-center ">
         <Navbar />
       </div>

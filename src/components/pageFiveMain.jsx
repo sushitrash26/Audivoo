@@ -3,7 +3,7 @@ import Image from "next/image"
 
 const PageFiveMain = () => {
   return (
-    <div className='w-full h-[700px]  flex'>
+    <div className='w-full h-[700px]  flex bg-[url("/flex.png")] no-repeat bg-cover'>
        
         <div className="left h-[full] w-[50%]  pt-[225px]">
             

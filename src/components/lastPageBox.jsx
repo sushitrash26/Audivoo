@@ -5,7 +5,7 @@ import { Button } from "./ui/button"
 const LastPageBox = () => {
   return (
     <div className="flex justify-center">
-      <div className="main w-full h-[398px] rounded-[72px] border border-[#1C212C] bg-[#1B182F]"
+      <div className="main w-full h-[398px] rounded-[72px] border border-[#1C212C]  bg-[url('/bgart.png')] bg-[#1B182F]"
        style={{
     fill: 'linear-gradient(150deg, rgba(99, 102, 241, 0.80) 13.95%, rgba(99, 102, 241, 0.32) 35.58%, rgba(99, 102, 241, 0.00) 70.52%)',
     filter: ''

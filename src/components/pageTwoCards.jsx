@@ -2,7 +2,7 @@
 
 const PageTwoCards = () => {
   return (
-    <div className="w-full bg-[#050711] flex gap-[24px] justify-center items-center h-[500px]">
+    <div className="w-full flex gap-[24px] justify-center items-center h-[500px]">
         <div className="main-card">
       <div className="top w-[397px] h-[58px] bg-[#050711] border-l border-l-[#703BF7]">
         <h1 className="py-[16px] px-[20px] text-white">Step 01</h1>

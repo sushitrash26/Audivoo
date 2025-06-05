@@ -6,7 +6,7 @@ import { Button } from './ui/button'
 
 const PageFourComponent = () => {
   return (
-    <div className='mt-[40px]'>
+    <div className='mt-[40px] bg-[url("/frame.png")] bg-cover no-repeat'>
       <PageFourText/>
       <PageFourBtn/>
       <PageFourImages/>
